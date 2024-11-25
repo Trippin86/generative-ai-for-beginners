@@ -6,3 +6,4 @@ tqdm==4.66.3
 python-dotenv==1.0.0
 openai>=0.28.0
 tiktoken
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
